@@ -1,0 +1,22 @@
+body{
+   padding: 0 !important;
+   background: url('background.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center center;
+   background-size: cover;
+   margin: 0 !important;
+   background-size: 100% cover!important;
+   overflow:hidden;
+   display: block;
+} 
+
+/* Set a style for the rest of the elements besides the header elements on the index.html page */
+#all_post_btn ,#create_post_btn   
+{
+   margin-top: 230px;
+   background-color: rgb(248, 177, 44);
+   font-size: 20px;
+   padding: 10px;
+}   
+                        
